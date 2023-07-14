@@ -1,0 +1,8 @@
+E:\C#\Exercises\JuggedArray\JuggedArray\bin\Debug\JuggedArray.exe.config
+E:\C#\Exercises\JuggedArray\JuggedArray\bin\Debug\JuggedArray.exe
+E:\C#\Exercises\JuggedArray\JuggedArray\bin\Debug\JuggedArray.pdb
+E:\C#\Exercises\JuggedArray\JuggedArray\obj\Debug\JuggedArray.csproj.AssemblyReference.cache
+E:\C#\Exercises\JuggedArray\JuggedArray\obj\Debug\JuggedArray.csproj.SuggestedBindingRedirects.cache
+E:\C#\Exercises\JuggedArray\JuggedArray\obj\Debug\JuggedArray.csproj.CoreCompileInputs.cache
+E:\C#\Exercises\JuggedArray\JuggedArray\obj\Debug\JuggedArray.exe
+E:\C#\Exercises\JuggedArray\JuggedArray\obj\Debug\JuggedArray.pdb
